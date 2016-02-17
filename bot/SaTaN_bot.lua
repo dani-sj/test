@@ -236,7 +236,7 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {103365027،179983320},--Sudo users
+    sudo_users = {103365027,179983320},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[W_SaTaN_W V 1
